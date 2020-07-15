@@ -1,4 +1,4 @@
-# ModelingMetropolitanComplaints
+# Modeling Metropolitan Complaints
 
 Introduction
 
