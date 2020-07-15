@@ -11,7 +11,7 @@ Method and Dataset
 For this project, the New York City "311 Service Requests from 2010 to Present" dataset was used, which may be downloaded and referenced from the NYCOpenData Initiative here: 
 https://nycopendata.socrata.com/en/Social-Services/311-Service-Requests-from-2010-to-Present/7ahn-ypff 
 
-I have broken down the project into four separate exercises (Click to see code) :
+I have broken down the project into four separate exercises (Click to view code) :
 
 1)[Determining the areas with the most issues](./BigIssueAreas.ipynb) ,
 
